@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urban Lux Boutique</title>
+    <style>
+        /* Estilos CSS para la página */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section-title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .section-content {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Urban Lux Boutique</h1>
+        <p>Tu destino para la moda urbana y de lujo</p>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2 class="section-title">Nuestra Colección</h2>
+            <p class="section-content">Explora nuestra cuidadosa selección de prendas y accesorios de alta calidad que reflejan elegancia, estilo y sofisticación. Desde prendas casuales hasta piezas de noche deslumbrantes, tenemos todo lo que necesitas para crear looks urbanos y lujosos que te harán destacar en cualquier ocasión.</p>
+        </section>
+        <section class="section">
+            <h2 class="section-title">Únete a Nuestra Comunidad</h2>
+            <p class="section-content">Únete a nosotros en nuestras redes sociales para estar al tanto de las últimas tendencias, recibir consejos de estilo exclusivos y participar en emocionantes eventos y promociones.</p>
+        </section>
+        <section class="section">
+            <h2 class="section-title">Compra Ahora</h2>
+            <p class="section-content">Explora nuestra tienda en línea y encuentra las piezas perfectas para realzar tu estilo personal. ¡Haz tu pedido hoy mismo y lleva tu guardarropa al siguiente nivel con Urban Lux!</p>
+        </section>
+        <section class="section">
+            <h2 class="section-title">Contáctanos</h2>
+            <p class="section-content">¿Tienes alguna pregunta o comentario? No dudes en ponerte en contacto con nuestro equipo de atención al cliente. Estamos aquí para ayudarte en cualquier momento.</p>
+        </section>
+    </div>
+</body>
+</html>
